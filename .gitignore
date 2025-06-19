@@ -1,0 +1,21 @@
+# Build output
+TestApp/bin/
+TestApp/obj/
+TestApp/out/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Environment and secrets
+.env
+secrets.json
+
+# Node (if using frontend tools)
+node_modules/
